@@ -1,2 +1,2 @@
-# PyTorch_practice
-# These python code are practice from MorvanZhou
+ PyTorch_practice
+ These python code are practice from MorvanZhou
